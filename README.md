@@ -9,7 +9,7 @@ Em cada notebook o estudo será dividido nas sessões:
 *   Prática - Python e Programação Orientada a Objeto
 *   Complexidade do Algoritmo *(em breve)*.
 
-<br><br>
+<br>
 
 ### Algoritmos disponíveis
 
